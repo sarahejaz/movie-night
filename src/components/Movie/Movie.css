@@ -1,0 +1,51 @@
+.movie-display {
+  width: 250px;
+  background-color: #c76b21;
+  text-align: center;
+  border-radius: 15px;
+  cursor: pointer;
+  position: relative;
+}
+
+.movie-overlay {
+  background-color: #c76c21e0;
+  text-align: center;
+  border-radius: 15px;
+  cursor: pointer;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  padding: 10%;
+}
+
+.movie-description {
+  font-size: 16px;
+  margin-top: 15px;
+}
+
+.img-display {
+  margin: 0;
+  width: 230px;
+  height: 346px;
+  margin-top: 10px;
+}
+
+.movie-title {
+  font-size: 18px;
+  margin: 0;
+  margin-top: 8px;
+}
+
+.movie-rating {
+  color: #d6d6d6;
+  font-size: 14px;
+  font-style: italic;
+  margin: 0;
+  margin-top: 8px;
+}
+
+.temp {
+  color: #fbff00;
+}

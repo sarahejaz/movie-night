@@ -1,0 +1,35 @@
+.movie-carousel-list {
+  width: inherit;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 90px;
+  justify-content: center;
+}
+
+.carousel {
+  width: inherit;
+  margin: 0 auto;
+}
+
+.react-multiple-carousel__arrow {
+}
+
+.react-multiple-carousel__arrow--right {
+  margin-right: -70px;
+}
+
+.react-multiple-carousel__arrow--right:hover {
+  margin-right: -40px;
+}
+
+.react-multiple-carousel__arrow--left {
+  margin-left: -70px;
+}
+
+.react-multiple-carousel__arrow--left:hover {
+  margin-left: -40px;
+}
+
+.carousel-button-group {
+  display: inline;
+}

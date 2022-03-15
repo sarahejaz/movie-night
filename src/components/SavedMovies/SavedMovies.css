@@ -1,0 +1,18 @@
+.saved-movies-white-div {
+  text-align: center;
+  background-color: #f0f0f0;
+  width: inherit;
+  margin: 0 auto;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #c76b21;
+  margin-bottom: 4%;
+  margin-top: 4%;
+}
+
+.saved-movies-heading {
+  margin-top: 70px;
+  margin-bottom: 40px;
+  font-size: 50px;
+  font-weight: bold;
+}

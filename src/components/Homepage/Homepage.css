@@ -1,0 +1,22 @@
+.movie-carousel-heading {
+  padding-left: 40px;
+  padding-bottom: 13px;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+.main-heading {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.name-heading {
+  letter-spacing: 8px;
+  font-size: 80px;
+  font-weight: 600;
+}
+
+.main-subheading {
+  font-weight: lighter;
+  padding-top: 10px;
+}

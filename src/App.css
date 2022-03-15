@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+.App {
+  color: white;
+  font-family: 'Lato', sans-serif;
+}
+
+footer {
+  background-color: #1e2541;
+  height: 40px;
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+}

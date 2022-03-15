@@ -1,0 +1,59 @@
+.admin-signup-heading {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: 2px;
+  margin-bottom: 60px;
+  color: #1f1f1f;
+  padding-top: 30px;
+}
+
+.admin-signup-div {
+  text-align: center;
+  background-color: #a4beee;
+  width: 45%;
+  height: 52%;
+  min-height: 450px;
+  margin: 0 auto;
+  border: none;
+  border-radius: 10px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin: auto;
+  justify-content: center;
+}
+
+.admin-input-div {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 2%;
+}
+
+.admin-input-div > input {
+  width: inherit;
+  height: 45px;
+  font-size: 20px;
+  border: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: #a3a3a3;
+  background-color: #f8f8f8;
+}
+
+.submit-button {
+  background-color: #d16939;
+  height: 50px;
+  width: 80px;
+}
+
+.admin-login-text {
+  color: #f3f3f3;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 18px;
+  margin-top: 5%;
+}

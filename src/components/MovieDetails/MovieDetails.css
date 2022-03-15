@@ -1,0 +1,37 @@
+.white-div {
+  background-color: #f0f0f0;
+  width: 90%;
+  margin: 0 auto;
+  border-radius: 10px;
+  color: #111111;
+  padding: 30px;
+  border-style: solid;
+  border-color: #c76b21;
+  margin-bottom: 4%;
+}
+
+.img-display {
+  margin: 0;
+  width: 244px;
+  height: 360px;
+  margin-top: 10px;
+}
+
+.description {
+  text-align: left;
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+.description > p {
+  font-size: 18px;
+}
+
+.left-side {
+  width: 26%;
+}
+
+.right-side {
+  width: 78%;
+  padding-left: 5px;
+}
