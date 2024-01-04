@@ -1,3 +1,25 @@
+# Movie Night
+A movies and shows database application. Users can search, browse, and favorite movies and TV shows.
+
+## Screencaps
+Home page:
+
+![1](https://github.com/sarahejaz/movie-night/assets/58132791/f9ec3f02-dc6b-4f1a-90fd-3187c929e321)
+
+
+Movie details:
+
+![3](https://github.com/sarahejaz/movie-night/assets/58132791/946df5eb-6fc0-462c-9614-892993f543fd)
+
+
+Movies and shows pages:
+
+![4](https://github.com/sarahejaz/movie-night/assets/58132791/b1a6b9cf-fa39-4edb-9e51-f3cbe1e6f1e7)
+
+![5](https://github.com/sarahejaz/movie-night/assets/58132791/f0babbf6-6432-4e5b-b9d4-00c32f871d3e)
+
+
+***
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
